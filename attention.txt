@@ -1,0 +1,6 @@
+Pour acceder a notre application il faudra disposer d'un peu de connexion our charger
+ les CDN et aussi ne pas oublier de desactiver le traducteur GOOGLE TRANSLATE.
+
+ l'application est accessible que part le controller en tapant
+
+ http://localhost/moto/controller/
