@@ -1,0 +1,17 @@
+.nav-wrapper{
+	background-color: rgb(11, 150, 95);
+}
+.body_session{
+	background-color: white;
+}
+.card{
+    width: 30%;
+    height: 50%;
+    margin-right: 3%;
+}
+
+.mere{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
